@@ -1,34 +1,3 @@
-//The following annoys the user with some stupid cookie warning.
-function getCookie(cname) {
-    var name = cname + '=';
-    var ca = document.cookie.split(';');
-    for(var i=0; i<ca.length; i++) {
-        var c = ca[i];
-        while (c.charAt(0)==' ') c = c.substring(1);
-        if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
-    }
-    return '';
-}
-
-function setCookie(cname, cvalue, date) {
-  if (getCookie('agreed') != 'Yes') return;
-    document.cookie = cname + '=' + cvalue + '; ' + expires + 'expires=' + date.toUTCString() + ';';
-}
-
-if (getCookie('agreed') == '') {
-  var r = confirm('This site uses cookies. Click "OK" to continue, "Cancel" to stop. Disable cookies if you do not like them.');
-  console.log(r)
-  if (r == true) {
-    var d = new Date();
-    d.setTime(d.getTime() + 31536000000);
-    document.cookie = 'agreed=Yes; expires=' + d.toUTCString() + ';';
-  } else {
-    var d = new Date();
-    d.setTime(d.getTime() + 31536000000);
-    document.cookie = 'agreed=No; expires=' + d.toUTCString() + ';';
-  }
-}
-
 //The following loads the website layout.
 var title = document.getElementById('title').innerHTML;
 var content = document.getElementById('content').innerHTML;
@@ -38,11 +7,11 @@ var template = '\
 <head> \
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 	<meta charset="UTF-8"> \
-	<link rel="shortcut icon" href="/Files/Icon.png"> \
+	<link rel="shortcut icon" href="/skin/Icon.png"> \
 	<meta name="robots" content="index,follow"> \
 	<meta http-equiv="cache-control" content="Public|Private"> \
 	<title>'+title+'</title> \
-	<link rel="stylesheet" href="/styles.css"></style> \
+	<link rel="stylesheet" href="/skin/styles.css"></style> \
 </head> \
 <body class="tp-dync2"> \
 \
@@ -54,14 +23,7 @@ var template = '\
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="/index.html">Home</a><br><br> \
-	<a href="/projects.html">Projects</a><br><br> \
-	<a href="/repo/">Cydia repo</a><br><br> \
-	<a href="/tutorial-cydia-repo.html">Tutorial: How to host your own Cydia repo</a><br><br> \
-	<a href="/c-autoreleasepool.html">C-Autoreleasepool project</a><br><br> \
-	<a href="/surutcra.html">Surutcra - A Twitter client</a><br><br> \
-	<a href="/ncforward.html">NCForward - Forward your notifications</a><br><br> \
-    <a href="/common-theos-problems.html">A collection of common THEOS problems</a><br><br> \
+	<a href="/">Home</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
 	<h4>News</h4> \
@@ -69,7 +31,6 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \
@@ -105,7 +66,7 @@ function startWinter() {
 
 	for (var i = 0; i < 10; i++) { //Create some random snowflakes
 		var snf = document.createElement('img');
-		snf.setAttribute('src', '/Files/snowflake.svg');
+		snf.setAttribute('src', '/skin/snowflake.svg');
 		snf.style.position = 'fixed';
 		snf.style.top = '-30px';
 		snf.style.left = Math.floor(window.innerWidth * Math.random()) + 'px';
@@ -157,7 +118,7 @@ function startAnimation() { //Here, we start our bad stuff.
 
 //Bad, hacky check to see if this browser supports what we do here .~.
 var tte = document.createElement('img');
-tte.setAttribute('src', '/Files/snowflake.svg');
+tte.setAttribute('src', '/skin/snowflake.svg');
 tte.style.transition = 'transform 0.1s linear';
 tte.style.width = '0px';
 tte.style.height = '0px';
