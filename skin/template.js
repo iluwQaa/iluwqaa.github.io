@@ -17,7 +17,7 @@ var template = '\
 \
 <header class="tp-dync" align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
 	<h1>GH-Repository</h1> \
-	"Some tweaks." \
+	Cydia Repository \
 </header> \
  \
 \
