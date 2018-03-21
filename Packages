@@ -1,17 +1,16 @@
 Package: com.justinpet26.iap26
 Name: iAP26 (iOS7-10.3.3)
-Version: 0.0.1-5
-Size: 36324
-MD5sum: b590b49f53f11b35317169deb72ad133
 Architecture: iphoneos-arm
-Description: Free iAP Purchases
 Depiction: https://iluwqaa.github.io/debs/iap26/index.html
-Filename: /debs/iap26/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
-Homepage: https://iosgods.com/topic/7682-iap26-001-5-ios-7-1033-free-iap-purchases/
-Sponsor: 666
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: JustinPet26
+Version: 0.0.1-5
 Section: Tweaks
+Filename: /debs/iap26/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
+Size: 36324
+MD5sum: b590b49f53f11b35317169deb72ad133
+Sponsor: 666
+Description: Free iAP Purchases
 
 Package: com.malcolmhall.wifipasswords
 Name: WiFi Passwords
@@ -21,7 +20,6 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: Dr Malcolm Hall <malcolmhall@me.com>
 Version: 3.0.1
 Section: Tool
-Depends: firmware >3.0
 Filename: /debs/com.malcolmhall.wifipasswords_3.0.1_iphoneos-arm.deb
 Size: 851520
 MD5sum: c343f3b61169b5ebb122a06911d7d204
@@ -41,19 +39,12 @@ Size: 107164
 MD5sum: 288bbb8fc5820f102f39050e208d2592
 Sponsor: BigBoss <bigboss@thebigboss.org>
 Description: Requires iOS 4 or higher
-
 This tweak let you protect your device's system from AppStore apps.
 You can choose to allow or block any apps from accessing system.
-
 An alert will pop up when any app tries to access system files. Note: not all application attempts to access system.
-
 Now you can turn on the log of apps accessing system.
-
 If you would like to report any app that cannot be detected by this tweak, please report it to @typ0s2d10, can't guarantee a fix though. I also welcome bug reports via Settings.
 Thanks to Alexianos Noad(@alexianos_n) for translating.
-
 Configure tweak options from Settings app. No icon is added to the home screen.
-
 - In iOS7, you may want to set no prompt action
-
 
