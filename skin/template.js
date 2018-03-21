@@ -16,21 +16,15 @@ var template = '\
 <body class="tp-dync2"> \
 \
 <header class="tp-dync" align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
-	<h1>iluwQaa\'s page</h1> \
-	"A different kind of magic." \
+	<h1>GH-Repository</h1> \
+	"Some tweaks." \
 </header> \
  \
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="/">Home</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
-	<h4>News</h4> \
-	--- This webpage uses HTML5 now. ---<br> \
-	--- Noticed how the website colors change during the day? ---<br> \
-	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
-\
 </aside> \
 \
 <section class="tp-dync2"><br> \
