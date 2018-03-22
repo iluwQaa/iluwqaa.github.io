@@ -1,6 +1,5 @@
 <div id="title">iluwQaa GH-Repository</div>
 <div id="content">
-Cydia Repository.<br>
 Feel free to add it to your list!<br><br>
 <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://iluwqaa.github.io/"><b>Open Cydia for me!</b></a><span id="ocy"></span><br><br>
 <hr>
@@ -21,6 +20,9 @@ function Apt_package() {
 	this.Author;
 	this.Filename;
 	this.Depiction;
+	
+	this.Sponsor;
+	this.MD5sum;
 } //Constructor for Apt_package object.
 function parsePackage(string) { //TODO: Make sure no key is undefined
 	var a_package = new Apt_package();
@@ -60,6 +62,12 @@ function parsePackage(string) { //TODO: Make sure no key is undefined
 			case 'Depiction':
 				a_package.Depiction = value;
 				break;
+				
+			case 'Sponsor':
+				a_package.Sponsor = value;
+				break;
+			case 'MD5sum':
+				a_package.MD5sum = value;
 			default:
 				break; //Unknown key.
 		}
@@ -101,7 +109,7 @@ xhr.onreadystatechange = function() {
 			pack.Name + ' (' + pack.Version + ')</a><br>' +
 			'<div id="u_' + pack.Package + '" style="display:none;">' +
 			'&nbsp;&nbsp;' + pack.Description + '<br>' +
-			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://h6nry.github.io/repo/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
+			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=https://iluwqaa.github.io/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
 			'&nbsp;&nbsp;<a href="' + pack.Depiction + '" target="_blank">Show more info.</a><br>' +
 			'&nbsp;&nbsp;<a href="' + pack.Filename + '" target="_blank">Download the .deb package.</a><br><br>' +
 			'</div>';
