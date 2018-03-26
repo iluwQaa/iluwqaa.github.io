@@ -54,3 +54,17 @@ MD5sum: c39ce6b24e83b100f571bcfa1516a8ac
 Sponsor: 
 Description: 
 
+Package: com.julioverne.cydown
+Name: CyDown
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: julioverne
+Version: 6.8.8
+Section: Tweaks
+Filename: /com.julioverne.cydown_6.8.8_iphoneos-arm.deb
+Size: 1022462
+MD5sum: a755b483a40400466f828ec1addd6142
+Sponsor: 
+Description: ✔️ Install packages free ✔️ Multiples connections downloads ✔️ Turbo Mode downloads ✔️ Open deb file in CyDown App (via Share/Open In) to install or view direct from Cydia ✔️ Blocker ADs ✔️ Wi-Fi Sharing ✔️ Tap&amp
+
