@@ -1,4 +1,4 @@
-Package: com.justinpet26.iap26
+Package: com.gh-repo.com.justinpet26.iap26
 Name: iAP26 (iOS7-10.3.3)
 Architecture: iphoneos-arm
 Depiction: 
@@ -12,7 +12,7 @@ MD5sum: b590b49f53f11b35317169deb72ad133
 Sponsor: https://iosgods.com/topic/7682-iap26-001-5-ios-7-1033-free-iap-purchases/
 Description: Free iAP Purchases
 
-Package: com.malcolmhall.wifipasswords
+Package: com.gh-repo.com.malcolmhall.wifipasswords
 Name: WiFi Passwords
 Architecture: iphoneos-arm
 Depiction: 
@@ -54,7 +54,7 @@ MD5sum: c39ce6b24e83b100f571bcfa1516a8ac
 Sponsor: 
 Description: 
 
-Package: com.julioverne.cydown
+Package: com.gh-repo.com.julioverne.cydown
 Name: CyDown
 Architecture: iphoneos-arm
 Depiction: 
@@ -62,9 +62,65 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: julioverne
 Version: 6.8.8
 Section: Tweaks
-Filename: /com.julioverne.cydown_6.8.8_iphoneos-arm.deb
+Filename: /debs/com.julioverne.cydown_6.8.8_iphoneos-arm.deb
 Size: 1022462
 MD5sum: a755b483a40400466f828ec1addd6142
 Sponsor: 
 Description: ✔️ Install packages free ✔️ Multiples connections downloads ✔️ Turbo Mode downloads ✔️ Open deb file in CyDown App (via Share/Open In) to install or view direct from Cydia ✔️ Blocker ADs ✔️ Wi-Fi Sharing ✔️ Tap&amp
+
+Package: com.gh-repo.com.zahirsher.tsto
+Name: The Simpsons™: Tapped Out By Electronic Arts
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: ZahirSher
+Version: 4.31.5-1
+Section: Hacks
+Filename: /debs/hacks/com.zahirsher.tsto_4.31.5-1_iphoneos-arm.deb
+Size: 208060
+MD5sum: 7730c35045331fa550ccc84d32098f3d
+Sponsor: https://iosgods.com/topic/64445-updated-the-simpsons%E2%84%A2-tapped-out-v4315-free-store-more/
+Description: Hack Features: - Free Store - Free Skipping - Extra Rewards (Receive when enter the game)
+
+Package: com.gh-repo.com.k.toonblast
+Name: Toon Blast By Peak Games
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: K_K
+Version: 
+Section: Hacks
+Filename: /debs/hacks/com.k.toonblast_2800-1+debug_iphoneos-arm.deb
+Size: 125228
+MD5sum: 1e902a3d878d3c80a5e39be4051c4ef3
+Sponsor: https://iosgods.com/topic/65825-arm64-toon-blast-v2800-cheats-2/
+Description: This hack only works on x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro & iPad Mini 2, 3, 4 and later. Hack Features: - Inf Coins (get) - Boosts (get)
+
+Package: com.gh-repo.com.kenny808.glu
+Name: Glu Pwner v2.0
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: K3NNNY
+Version: 2.0-1
+Section: Tweaks
+Filename: /debs/tweaks/com.kenny808.glu_2.0-1_iphoneos-arm.deb
+Size: 10844
+MD5sum: ec74cb4caa23c4a419da9706c3b4ef44
+Sponsor: https://iosgods.com/topic/966-updateglu-pwner-v20/
+Description: Features: - Gives You Currency Every time Open Game Or Watch An Video Offer (Enter your own Currency)
+
+Package: com.gh-repo.com.zahirsher.pwner
+Name: 9 in 1 Pwner [Gameloft/Glu/EA/BigFish/Tapjoy/Smule/Pocket Gems/Hutch Games/Freyr Games]
+Architecture: iphoneos-arm
+Depiction: 
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: ZahirSher
+Version: 
+Section: Tweaks
+Filename: /debs/tweaks/com.zahirsher.pwner.deb
+Size: 45694
+MD5sum: a441ef2f3c91b95b42e473d37d26f1b7
+Sponsor: https://iosgods.com/topic/1468-9-in-1-pwner-gameloftglueabigfishtapjoysmulepocket-gemshutch-gamesfreyr-games/
+Description: New Update Includes: ~ New Smule VIP Enabler ~ EA [Real Racing] Gold Pwner ~ New Support Link! Features: - Gameloft [Watch Video and earn 1000 of the currecy] - Glu [Watch Video - Some Apps | See Offers - Some Apps] - Pocket Gems [in App Enabler - Need IAPFREE/LocalIAPStore/iAPCrazy] - Hutch Games [Watch Video and earn 10000 of the currency] - Freyr Games [Watch Video and earn 10000 of the currency] - EA Games - Only Real Racing [Watch Video and get 1000 of the currency]  ~NEW~ - Smule Games - [VIP Enabler] ~NEW~ - Big Fish Games - [unlocker] ~NEW~ - Tapjoy - [Gives you 10000 gold!] ~NEW~
 
