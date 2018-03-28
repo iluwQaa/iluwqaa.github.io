@@ -88,7 +88,7 @@ Architecture: iphoneos-arm
 Depiction: 
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: K_K
-Version: 
+Version: 2.8.0.0-1
 Section: Hacks
 Filename: /debs/hacks/com.k.toonblast_2800-1+debug_iphoneos-arm.deb
 Size: 125228
@@ -111,16 +111,16 @@ Sponsor: https://iosgods.com/topic/966-updateglu-pwner-v20/
 Description: Features: - Gives You Currency Every time Open Game Or Watch An Video Offer (Enter your own Currency)
 
 Package: com.gh-repo.com.zahirsher.pwner
-Name: 9 in 1 Pwner [Gameloft/Glu/EA/BigFish/Tapjoy/Smule/Pocket Gems/Hutch Games/Freyr Games]
+Name: 9in1 Pwner
 Architecture: iphoneos-arm
 Depiction: 
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: ZahirSher
-Version: 
+Version: 0.1
 Section: Tweaks
 Filename: /debs/tweaks/com.zahirsher.pwner.deb
 Size: 45694
 MD5sum: a441ef2f3c91b95b42e473d37d26f1b7
 Sponsor: https://iosgods.com/topic/1468-9-in-1-pwner-gameloftglueabigfishtapjoysmulepocket-gemshutch-gamesfreyr-games/
-Description: New Update Includes: ~ New Smule VIP Enabler ~ EA [Real Racing] Gold Pwner ~ New Support Link! Features: - Gameloft [Watch Video and earn 1000 of the currecy] - Glu [Watch Video - Some Apps | See Offers - Some Apps] - Pocket Gems [in App Enabler - Need IAPFREE/LocalIAPStore/iAPCrazy] - Hutch Games [Watch Video and earn 10000 of the currency] - Freyr Games [Watch Video and earn 10000 of the currency] - EA Games - Only Real Racing [Watch Video and get 1000 of the currency]  ~NEW~ - Smule Games - [VIP Enabler] ~NEW~ - Big Fish Games - [unlocker] ~NEW~ - Tapjoy - [Gives you 10000 gold!] ~NEW~
+Description: [Gameloft/Glu/EA/BigFish/Tapjoy/Smule/Pocket Gems/Hutch Games/Freyr Games] PWNER! New Update Includes: -New Smule VIP Enabler -EA [Real Racing] Gold Pwner -New Support Link! Features: -Gameloft [Watch Video and earn 1000 of the currecy] -Glu [Watch Video - Some Apps | See Offers - Some Apps] -Pocket Gems [in App Enabler - Need IAPFREE/LocalIAPStore/iAPCrazy] -Hutch Games [Watch Video and earn 10000 of the currency] -Freyr Games [Watch Video and earn 10000 of the currency] -EA Games - Only Real Racing [Watch Video and get 1000 of the currency] -Smule Games - [VIP Enabler] -Big Fish Games - [unlocker] -Tapjoy - [Gives you 10000 gold!]
 
