@@ -23,7 +23,7 @@
 		]]>
 		</description>-->
 	</descriptionlist>
-	<screenshots>
+	<!--<screenshots>
 		<screenshot>
 			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
@@ -32,16 +32,16 @@
 			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
-	</screenshots>
+	</screenshots>-->
 	<changelog>
 		<change>+ Repos that are not compatible with your jailbreak will no longer show up in 'Community Sources'</change>
 		<change>+ Sileo Purchase Support (#69, thanks @midnightchip!)</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Official Site</name>
+			<url>https://getzbra.com/</url>
+			<iconclass>fa fa-copyright</iconclass>
 		</link>
 	</links>
 </package>
