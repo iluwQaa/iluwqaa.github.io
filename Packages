@@ -1,160 +1,17 @@
-Package: com.gh-repo.com.justinpet26.iap26
-Name: iAP26 (iOS7-10.3.3)
+Package: xyz.willy.zebra
+Name: Zebra (Beta)
 Architecture: iphoneos-arm
-Depiction: 
+Depiction: https://iluwqaa.github.io/repo/depictions/?p=xyz.willy.zebra
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: JustinPet26
-Version: 0.0.1-5
-Section: Tweaks
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: /debs/iap26/com.gh-repo.com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
-Size: 36324
-MD5sum: b590b49f53f11b35317169deb72ad133
-Sponsor: https://iosgods.com/topic/7682-iap26-001-5-ios-7-1033-free-iap-purchases/
-Description: Free iAP Purchases
-
-Package: com.gh-repo.com.malcolmhall.wifipasswords
-Name: WiFi Passwords
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: Dr Malcolm Hall <malcolmhall@me.com>
-Version: 3.0.1
-Section: Tools
-Depends: firmware (>= 3.0)
-Filename: /debs/com.gh-repo.wifipasswords_3.0.1_iphoneos-arm.deb
-Size: 851520
-MD5sum: c343f3b61169b5ebb122a06911d7d204
-Sponsor: https://www.malcolmhall.com/products/wifipasswords/
-Description: This app displays every WiFi password you have ever entered. Very handy if you forgot a password and need to connect another device, or tell a friend the password for a coffee shop without asking that embarrassing question again. Tap hold on the password to copy it to the clipboard. Requires iOS 3.0 or later.
-
-Package: com.gh-repo.tsprotectorp
-Name:  tsProtector P (iOS 5,6,7)
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: typ0s2d10
-Version: 3.3.16-2
-Section: Tweak
-Depends: firmware (>= 4.0), mobilesubstrate
-Filename: /debs/com.gh-repo.tsprotectorp_3.3.16-2_iphoneos-arm.deb
-Size: 107164
-MD5sum: 288bbb8fc5820f102f39050e208d2592
-Sponsor: BigBoss <bigboss@thebigboss.org>
-Description: Requires iOS 4 or higher
-
-Package: com.gh-repo.gameplayer
-Name: GamePlayer
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: 
-Version: 3.4
-Section: Tools
-Filename: /debs/com.gh-repo.gameplayer_3.4_iphoneos-arm.deb
-Size: 1509524
-MD5sum: c39ce6b24e83b100f571bcfa1516a8ac
+Author: Wilson Styres <wilson@styres.me>
+Version: 1.0~beta11
+Section: Packaging
+Depends: mobilesubstrate, firmware (>8.0), firmware (<12.1.2)
+Filename: /debs/xyz.willy.zebra_1.0.beta10_iphoneos-arm.deb
+Size: 1786810
+MD5sum: a9aa8300e62e6b249c1bdd332a06f96f
 Sponsor: 
 Description: 
-
-Package: com.gh-repo.com.julioverne.cydown
-Name: CyDown
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: julioverne
-Version: 6.8.8
-Section: Tweaks
-Filename: /debs/com.gh-repo.com.julioverne.cydown_6.8.8_iphoneos-arm.deb
-Size: 1022462
-MD5sum: a755b483a40400466f828ec1addd6142
-Sponsor: 
-Description: ✔️ Install packages free ✔️ Multiples connections downloads ✔️ Turbo Mode downloads ✔️ Open deb file in CyDown App (via Share/Open In) to install or view direct from Cydia ✔️ Blocker ADs ✔️ Wi-Fi Sharing ✔️ Tap&amp
-
-Package: com.gh-repo.com.zahirsher.tsto
-Name: The Simpsons™: Tapped Out By Electronic Arts
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: ZahirSher
-Version: 4.31.5-1
-Section: Hacks
-Filename: /debs/hacks/com.gh-repo.com.zahirsher.tsto_4.31.5-1_iphoneos-arm.deb
-Size: 208060
-MD5sum: 7730c35045331fa550ccc84d32098f3d
-Sponsor: https://iosgods.com/topic/64445-updated-the-simpsons%E2%84%A2-tapped-out-v4315-free-store-more/
-Description: Hack Features: - Free Store - Free Skipping - Extra Rewards (Receive when enter the game)
-
-Package: com.gh-repo.com.k.toonblast
-Name: Toon Blast By Peak Games
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: K_K
-Version: 2.8.0.0-1
-Section: Hacks
-Filename: /debs/hacks/com.gh-repo.com.k.toonblast_2800-1+debug_iphoneos-arm.deb
-Size: 125228
-MD5sum: 1e902a3d878d3c80a5e39be4051c4ef3
-Sponsor: https://iosgods.com/topic/65825-arm64-toon-blast-v2800-cheats-2/
-Description: This hack only works on x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro & iPad Mini 2, 3, 4 and later. Hack Features: - Inf Coins (get) - Boosts (get)
-
-Package: com.gh-repo.com.kenny808.glu
-Name: Glu Pwner v2.0
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: K3NNNY
-Version: 2.0-1
-Section: Tweaks
-Filename: /debs/tweaks/com.gh-repo.com.kenny808.glu_2.0-1_iphoneos-arm.deb
-Size: 10844
-MD5sum: ec74cb4caa23c4a419da9706c3b4ef44
-Sponsor: https://iosgods.com/topic/966-updateglu-pwner-v20/
-Description: Features: - Gives You Currency Every time Open Game Or Watch An Video Offer (Enter your own Currency)
-
-Package: com.gh-repo.com.zahirsher.pwner
-Name: 9in1 Pwner
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: ZahirSher
-Version: 0.1
-Section: Tweaks
-Filename: /debs/tweaks/com.gh-repo.com.zahirsher.pwner.deb
-Size: 45694
-MD5sum: a441ef2f3c91b95b42e473d37d26f1b7
-Sponsor: https://iosgods.com/topic/1468-9-in-1-pwner-gameloftglueabigfishtapjoysmulepocket-gemshutch-gamesfreyr-games/
-Description: [Gameloft/Glu/EA/BigFish/Tapjoy/Smule/Pocket Gems/Hutch Games/Freyr Games] PWNER! New Update Includes: -New Smule VIP Enabler -EA [Real Racing] Gold Pwner -New Support Link! Features: -Gameloft [Watch Video and earn 1000 of the currecy] -Glu [Watch Video - Some Apps | See Offers - Some Apps] -Pocket Gems [in App Enabler - Need IAPFREE/LocalIAPStore/iAPCrazy] -Hutch Games [Watch Video and earn 10000 of the currency] -Freyr Games [Watch Video and earn 10000 of the currency] -EA Games - Only Real Racing [Watch Video and get 1000 of the currency] -Smule Games - [VIP Enabler] -Big Fish Games - [unlocker] -Tapjoy - [Gives you 10000 gold!]
-
-Package: com.gh-repo.com.Joka.iOSGodsiAPCracker
-Name: iAPCracker
-Architecture: iphoneos-arm
-Depiction: 
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: Joka
-Version: 1.0-2
-Section: Tweaks
-Filename: /debs/tweaks/com.gh-repo.com.Joka.iOSGodsiAPCracker_1.0-2_iphoneos-arm.deb
-Size: 62488
-MD5sum: 4932c5023d5f9242eebb877861b52f10
-Sponsor: 
-Description: iAP Cracker
-
-Package: com.yourepo.speedmx.localiapstore
-Name: LocalIAPStore
-Architecture: iphoneos-arm
-Depiction: http://www.yourepo.com/repo/speedmx/pack/localiapstore
-Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: Pangu
-Version: 1.4-4
-Section: Tweaks
-Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: /debs/tweaks/com.gh-repo.com.yourepo.speedmx.localiapstore_1.4-4_iphoneos-arm.deb
-Size: 70246
-MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
-Sponsor: 
-Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 
 Package: xyz.willy.zebra
 Name: Zebra (Beta)
