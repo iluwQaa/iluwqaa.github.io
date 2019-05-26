@@ -1,5 +1,5 @@
 control
 .DS_Store
 how-to
-debs\processed\*
-debs/processed/test
+debs/processed/*
+INFO

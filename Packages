@@ -28,3 +28,18 @@ MD5sum: bdb62d41838a3d8271e8320f61c837d1
 Sponsor: 
 Description: 
 
+Package: com.iluwqaa.arc
+Name: Archero iGMM
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/repo/depictions/?p=com.iluwqaa.arc
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: DanYal
+Version: 1.0.9
+Section: Hacks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/cheats/com.iluwqaa.arc_1.0.9_iphoneos-arm.deb
+Size: 991942
+MD5sum: 88565ac13678a3171c6f500041ce55aa
+Sponsor: 
+Description: 
+
