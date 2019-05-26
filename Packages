@@ -156,3 +156,18 @@ MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
 Sponsor: 
 Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
 
+Package: xyz.willy.zebra
+Name: Zebra (Beta)
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/repo/depictions/?p=xyz.willy.zebra
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: Wilson Styres <wilson@styres.me>
+Version: 1.0~beta11
+Section: Packaging
+Depends: mobilesubstrate, firmware (>8.0), firmware (<12.1.2)
+Filename: /debs/xyz.willy.zebra_1.0.beta11_iphoneos-arm.deb
+Size: 2042598
+MD5sum: bdb62d41838a3d8271e8320f61c837d1
+Sponsor: 
+Description: 
+

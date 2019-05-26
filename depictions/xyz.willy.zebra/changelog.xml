@@ -1,0 +1,28 @@
+<changelog>
+	<changes>
+		<version>1.0~beta11</version>
+		<change>Adds:</change>
+		<change>Repos that are not compatible with your jailbreak will no longer show up in 'Community Sources'</change>
+		<change>Sileo Purchase Support (#69, thanks @midnightchip!)</change>
+		<change>Fixes:</change>
+		<change>Swipe actions for package cells will now display the correct actions</change>
+		<change>Fixes an issue where some depictions weren't supplied with the proper information</change>
+		<change>Fixes a crash when trying to reinstall a package</change>
+		<change>Fixes support for repos that contain an entire URL for their Filename: field (mainly repo unclutter)</change>
+		<change>Fixes many issues with upgrade loops and upgrades not showing</change>
+		<change>Fixes another crash with users trying to view All Packages of a repo</change>
+		<change>Fix 3D Touch App Icon actions not working</change>
+		<change>Allows for swipe gestures on homepage web views</change>
+		<change>Zebra will now attempt to migrate the database if it detects that changes need to be made</change>
+		<change>Fixed some incorrect dependency resolutions</change>
+		<change>Fixed an issue where the queue button would not show after a swipe action was pressed</change>
+	</changes>
+	<changes>
+		<version>1.0~beta10</version>
+		<change>Adds:</change>
+		<change>Swipe actions for packages</change>
+		<change>Fixes:</change>
+		<change>Error that some users were experiencing were Zebra would not load/add sources</change>
+		<change>Fixes an issue where Zebra would not send the right UDID header to repos when downloading packages</change>
+	</changes>
+</changelog>

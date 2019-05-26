@@ -1,0 +1,47 @@
+<package>
+	<id>xyz.willy.zebra</id>
+	<name>Zebra (Beta)</name>
+	<version>1.0~beta11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>A Useful Package Manager</shortDescription>
+	<descriptionlist>
+		<description>Zebra (née AUPM) is a very basic package manager for jailbroken iOS devices.</description>
+		<description>It supports most modern iOS versions and provides most features that Cydia does, while being notably quicker.</description>
+		<description>This product is still in the beta stages and I thank you for your help in testing it out. If there are any issues you encounter, features you want to request, or anything else, please send me and email and I'll quickly get back to you.</description>
+		<!--<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>-->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>+ Repos that are not compatible with your jailbreak will no longer show up in 'Community Sources'</change>
+		<change>+ Sileo Purchase Support (#69, thanks @midnightchip!)</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
