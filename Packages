@@ -43,3 +43,17 @@ MD5sum: 88565ac13678a3171c6f500041ce55aa
 Sponsor: 
 Description: 
 
+Package: com.justinpet26.iap26
+Name: iAP26
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/depictions/?p=com.justinpet26.iap26
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: justinpet26
+Version: 0.0.1-5
+Section: Tweaks
+Filename: debs/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
+Size: 36324
+MD5sum: b590b49f53f11b35317169deb72ad133
+Sponsor: 
+Description: 
+

@@ -1,0 +1,32 @@
+<package>
+	<id>com.justinpet26.iap26</id>
+	<name>iAP26</name>
+	<version>0.0.1-5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1.2</maxiOS
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Free iAP Purchases</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[ 
+		Free in app purchases on iOS 11 & 12 with Chimera/Electra!<br/>
+		You'll know if it doesn't work when (iAP transaction fails/app crashes)<br/>
+		<br/>
+		This WILL NOT work on everything!<br/>
+		So please do not complain.﻿﻿﻿
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
