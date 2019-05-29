@@ -1,7 +1,7 @@
 Package: xyz.willy.zebra
 Name: Zebra (Beta)
 Architecture: iphoneos-arm
-Depiction: https://iluwqaa.github.io/repo/depictions/?p=xyz.willy.zebra
+Depiction: https://iluwqaa.github.io/depictions/?p=xyz.willy.zebra
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: Wilson Styres <wilson@styres.me>
 Version: 1.0~beta11
@@ -16,7 +16,7 @@ Description:
 Package: xyz.willy.zebra
 Name: Zebra (Beta)
 Architecture: iphoneos-arm
-Depiction: https://iluwqaa.github.io/repo/depictions/?p=xyz.willy.zebra
+Depiction: https://iluwqaa.github.io/depictions/?p=xyz.willy.zebra
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: Wilson Styres <wilson@styres.me>
 Version: 1.0~beta11
@@ -31,13 +31,13 @@ Description:
 Package: com.iluwqaa.arc
 Name: Archero iGMM
 Architecture: iphoneos-arm
-Depiction: https://iluwqaa.github.io/repo/depictions/?p=com.iluwqaa.arc
+Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.arc
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: DanYal
 Version: 1.0.9
 Section: Hacks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/cheats/com.iluwqaa.arc_1.0.9_iphoneos-arm.deb
+Filename: debs/hacks/com.iluwqaa.arc_1.0.9_iphoneos-arm.deb
 Size: 991942
 MD5sum: 88565ac13678a3171c6f500041ce55aa
 Sponsor: 
