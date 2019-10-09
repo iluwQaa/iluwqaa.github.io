@@ -1,4 +1,4 @@
-Package: xyz.willy.zebra
+ Package: xyz.willy.zebra
 Name: Zebra (Beta)
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=xyz.willy.zebra
@@ -92,7 +92,7 @@ Package: ru.domo.cocoatop64
 Name: CocoaTop 64
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=ru.domo.cocoatop64
-Maintainer: Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: D0m0
 Version: 2.0.2-1+debug
 Section: Utilities
@@ -103,3 +103,33 @@ MD5sum: c30794b242e73c924db279640dc6eee1
 Sponsor: 
 Description: Process Viewer for iOS GUI
 
+Package: io.iluwqaa.dummy
+Name: Dummy Package
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/depictions/?p=com.oldpackage
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: iluwQaa <iluwQaa@users.noreply.github.com>
+Version: 0.0.1-1
+Section: Games
+Depends: mobilesubstrate, firmware (>8.0)
+Filename: debs/dummy/io.iluwqaa.dummy.deb
+Size: 0
+MD5sum: 955a9a59163287f3dedee5580fd7b0a8
+Sponsor: 
+Description: Dummy Package
+
+Package: io.iluwqaa.dummy2
+Name: Dummy Package 2
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/depictions/?p=com.oldpackage
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: iluwQaa <iluwQaa@users.noreply.github.com>
+Version: 0.0.1-2
+Section: System
+Depends: mobilesubstrate, firmware (>8.0)
+Filename: debs/dummy/io.iluwqaa.dummy-2.deb
+Size: 0
+MD5sum: 955a9a59163287f3dedee5580fd7b0a8
+Sponsor: 
+Description: Dummy Package 2
+Icon: icons/cydia/Sections/Toys.png
