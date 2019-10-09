@@ -6,7 +6,7 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: Wilson Styres <wilson@styres.me>
 Version: 1.0~beta10
 Section: Packaging
-Depends: mobilesubstrate, firmware (>8.0), firmware (<12.1.2)
+Depends: mobilesubstrate, firmware (>8.0)
 Filename: /debs/xyz.willy.zebra_1.0.beta10_iphoneos-arm.deb
 Size: 1786810
 MD5sum: a9aa8300e62e6b249c1bdd332a06f96f
@@ -21,7 +21,7 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: Wilson Styres <wilson@styres.me>
 Version: 1.0~beta11
 Section: Packaging
-Depends: mobilesubstrate, firmware (>8.0), firmware (<12.1.2)
+Depends: mobilesubstrate, firmware (>8.0)
 Filename: /debs/xyz.willy.zebra_1.0.beta11_iphoneos-arm.deb
 Size: 2042598
 MD5sum: bdb62d41838a3d8271e8320f61c837d1
@@ -81,6 +81,7 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: justinpet26
 Version: 0.0.1-5
 Section: Tweaks
+Depends: mobilesubstrate
 Filename: debs/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
 Size: 36324
 MD5sum: b590b49f53f11b35317169deb72ad133
@@ -95,6 +96,7 @@ Maintainer: Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: D0m0
 Version: 2.0.2-1+debug
 Section: Utilities
+Depends: mobilesubstrate, firmware (>8.0)
 Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
