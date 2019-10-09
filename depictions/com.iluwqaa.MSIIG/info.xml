@@ -1,7 +1,7 @@
 <package>
-	<id>com.iluwqaa.arc</id>
-	<name>Archero iGMM</name>
-	<version>1.2.3</version>
+	<id>com.iluwqaa.MSIIG</id>
+	<name>Metal Slug Infinity iGMM</name>
+	<version>1.2.4</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.4</maxiOS>
@@ -15,14 +15,14 @@
 		<package>mobilesubstrate</package>
 		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>iGMM for Archero</shortDescription>
+	<shortDescription>iGMM for Metal Slug Infinity</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[ 
 		Hack Features:<br/>
-		- One Hit Kill<br/>
-		- God Mode<br/>
-		- Enemies Don't Attack<br/>
-		- Enemies Don't Move<br/>
+		- Gold Increase<br/>
+		- No Skills CoolDown<br/>
+		- x3 Battle Speed<br/>
+		- x5 Battle Speed<br/>
 		]]>
 		</description>
 		<description><![CDATA[ 
@@ -35,12 +35,12 @@
 		</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Updated release</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
 			<name>iOSGods Topic</name>
-			<url>https://iosgods.com/topic/96783-archero-v109-one-hit-kill-more/</url>
+			<url>https://iosgods.com/topic/94928-metal-slug-infinity-idle-game-v124-gold-increase-more</url>
 			<iconclass>fa fa-copyright</iconclass>
 		</link>
 	</links>
