@@ -29,7 +29,7 @@ Sponsor:
 Description: 
 
 Package: com.iluwqaa.arc
-Name: Archero iGMM
+Name: Archero Cheat [iGMM]
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.arc
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
@@ -42,9 +42,10 @@ Size: 991942
 MD5sum: 88565ac13678a3171c6f500041ce55aa
 Sponsor: iOSGods.com
 Description: in-game menu hack for Archero
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
 
 Package: com.iluwqaa.arc
-Name: Archero iGMM
+Name: Archero Cheat [iGMM]
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.arc
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
@@ -57,9 +58,10 @@ Size: 1041974
 MD5sum: 955a9a59163287f3dedee5580fd7b0a8
 Sponsor: iOSGods.com
 Description: in-game menu hack for Archero
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
 
 Package: com.iluwqaa.MSIIG
-Name: Metal Slug Infinity iGMM
+Name: Metal Slug Infinity Cheat [iGMM]
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.MSIIG
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
@@ -72,6 +74,7 @@ Size: 1043096
 MD5sum: 4438cf616dfd2e692a10131746b0e628
 Sponsor: iOSGods.com
 Description: in-game menu hack for Metal Slug Infinity
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
 
 Package: com.justinpet26.iap26
 Name: iAP26
@@ -85,8 +88,10 @@ Depends: mobilesubstrate
 Filename: debs/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
 Size: 36324
 MD5sum: b590b49f53f11b35317169deb72ad133
-Sponsor: 
-Description: 
+SHA256: ff81e2b5cd89ceb63f586cf1bdf448b42e5ad291d985883997c742730dfd8b2c
+Sponsor: iOSGods.com
+Description: Free iAP Purchases
+Icon: file:///Library/PreferenceBundles/iAP26.bundle/iAP26@2x.png
 
 Package: ru.domo.cocoatop64
 Name: CocoaTop 64
@@ -100,8 +105,10 @@ Depends: mobilesubstrate, firmware (>8.0)
 Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Sponsor: 
 Description: Process Viewer for iOS GUI
+Icon: file:///Applications/CocoaTop.app/Icon@2x.png
 
 Package: io.iluwqaa.dummy
 Name: Dummy Package
@@ -117,6 +124,7 @@ Size: 0
 MD5sum: 955a9a59163287f3dedee5580fd7b0a8
 Sponsor: 
 Description: Dummy Package
+Icon: ./CydiaIcon.png
 
 Package: io.iluwqaa.dummy2
 Name: Dummy Package 2
@@ -129,7 +137,8 @@ Section: System
 Depends: mobilesubstrate, firmware (>8.0)
 Filename: debs/dummy/io.iluwqaa.dummy-2.deb
 Size: 0
-MD5sum: 955a9a59163287f3dedee5580fd7b0a8
+MD5sum: bc3f16e1e755c269ed8f606b126ec7d9
+SHA256: 2d9c9f75b0feded941707fd6606882abd0f4b83d4931c546362d437658ecaf1c
 Sponsor: 
 Description: Dummy Package 2
-Icon: icons/cydia/Sections/Toys.png
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/iOSGods.png
