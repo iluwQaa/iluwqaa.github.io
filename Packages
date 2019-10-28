@@ -35,14 +35,14 @@ Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.arc
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: DanYal
 Version: 1.0.9
-Section: Tweaks
+Section: Cheats
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/hacks/com.iluwqaa.arc_1.0.9_iphoneos-arm.deb
 Size: 991942
 MD5sum: 88565ac13678a3171c6f500041ce55aa
 Sponsor: iOSGods.com
 Description: in-game menu hack for Archero
-Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Cheats.png
 
 Package: com.iluwqaa.arc
 Name: Archero Cheat [iGMM]
@@ -51,14 +51,14 @@ Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.arc
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: DanYal
 Version: 1.2.3
-Section: Tweaks
+Section: Cheats
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/hacks/com.iluwqaa.arc_1.2.3_iphoneos-arm.deb
 Size: 1041974
 MD5sum: 955a9a59163287f3dedee5580fd7b0a8
 Sponsor: iOSGods.com
 Description: in-game menu hack for Archero
-Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Cheats.png
 
 Package: com.iluwqaa.MSIIG
 Name: Metal Slug Infinity Cheat [iGMM]
@@ -67,14 +67,14 @@ Depiction: https://iluwqaa.github.io/depictions/?p=com.iluwqaa.MSIIG
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: DanYal
 Version: 1.2.4
-Section: Tweaks
+Section: Cheats
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/hacks/com.iluwqaa.MSIIG_1.2.4_com_iphoneos-arm.deb
 Size: 1043096
 MD5sum: 4438cf616dfd2e692a10131746b0e628
 Sponsor: iOSGods.com
 Description: in-game menu hack for Metal Slug Infinity
-Icon: https://iluwqaa.github.io/icons/cydia/Sections/Toys.png
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Cheats.png
 
 Package: com.justinpet26.iap26
 Name: iAP26
@@ -124,7 +124,7 @@ Size: 0
 MD5sum: 955a9a59163287f3dedee5580fd7b0a8
 Sponsor: 
 Description: Dummy Package
-Icon: ./CydiaIcon.png
+Icon:  https://iluwqaa.github.io/CydiaIcon.png
 
 Package: io.iluwqaa.dummy2
 Name: Dummy Package 2
