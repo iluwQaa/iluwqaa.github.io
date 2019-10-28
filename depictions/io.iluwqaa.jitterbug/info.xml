@@ -15,12 +15,12 @@
 	<shortDescription></shortDescription>
 	<descriptionlist>
 		<description>"Boy I got the jitters!"</description>
-		<!--<description><![CDATA[
+		<description><![CDATA[
 		Jitterbug is a tweak that plays a selected song while editing your homescreen.<br/>
 		Configure options from settings.<br/>
 		This was requested on Reddit by /u/shnazzyc.<br/>
 		]]>
-		</description>-->
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
