@@ -110,6 +110,24 @@ Sponsor:
 Description: Process Viewer for iOS GUI
 Icon: file:///Applications/CocoaTop.app/Icon@2x.png
 
+Name: JitterBug
+Package: io.iluwqaa.jitterbug
+Description: Play a song while editing your homescreen
+Architecture: iphoneos-arm
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
+Icon: file:///Library/PreferenceBundles/JitterBug.bundle/JitterBug@2x.png
+Version: 1.0-1
+Filename: debs/tweaks/io.iluwqaa.jitterbug_1.0-1.deb
+Size: 25287344
+MD5sum: 5454f74e0ecb2410facb97a88c3d2f53
+SHA1: 686d72219a210ea7051f2c0ba383a351b5028c38
+SHA256: ae22495c951c0c7d34c72faa8f8f853104922b5975c1b944acb7a41829165699
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 10.0)
+Installed-Size: 25292
+
 Package: io.iluwqaa.dummy
 Name: Dummy Package
 Architecture: iphoneos-arm

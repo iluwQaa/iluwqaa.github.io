@@ -1,0 +1,42 @@
+<package>
+	<id>io.iluwqaa.jitterbug</id>
+	<name>JitterBug</name>
+	<version>1.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>"Boy I got the jitters!"</description>
+		<!--<description><![CDATA[
+		Jitterbug is a tweak that plays a selected song while editing your homescreen.<br/>
+		Configure options from settings.<br/>
+		This was requested on Reddit by /u/shnazzyc.<br/>
+		]]>
+		</description>-->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings pane</description>
+			<image>1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Song list</description>
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Homescreen jitter</description>
+			<image>3.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Innitial realese</change>
+	</changelog>
+</package>
