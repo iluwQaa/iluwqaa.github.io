@@ -138,7 +138,6 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
 Icon: file:///Library/PreferenceBundles/JitterBug.bundle/JitterBug@2x.png
-SileoDepiction: https://repo.packix.com/api/sileo/package/com.ikilledappl3.jitterbug/depiction
 Version: 1.0.1-1
 Filename: debs/tweaks/io.iluwqaa.jitterbug_1.0.1-1.deb
 Size: 39884048
@@ -157,7 +156,6 @@ Architecture: iphoneos-arm
 Section: Tweaks
 Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
 Icon: file:///Library/PreferenceBundles/JitterBug.bundle/JitterBug@2x.png
-SileoDepiction: https://repo.packix.com/api/sileo/package/com.ikilledappl3.jitterbug/depiction
 Version: 1.0.2-1
 Filename: debs/tweaks/io.iluwqaa.jitterbug_1.0.2-1.deb
 Size: 39885294
