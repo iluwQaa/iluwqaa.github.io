@@ -1,0 +1,19 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{296, 148}",
+    "itemCornerRadius": 12,
+    "banners": [
+      {
+        "url": "https://iluwqaa.github.io/icons/SileoBanner.png",
+        "title": "Repo iCons",
+        "package": "io.iluwqaa.repoicons",
+        "hideShadow": false
+      },
+      {
+        "url": "https://iluwqaa.github.io/icons/deb.png",
+        "title": "Dummy Package",
+        "package": "io.iluwqaa.dummy",
+        "hideShadow": false
+      }
+    ]
+  }
