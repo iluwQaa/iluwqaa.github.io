@@ -1,4 +1,4 @@
- Package: xyz.willy.zebra
+Package: xyz.willy.zebra
 Name: Zebra (Beta)
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=xyz.willy.zebra
@@ -81,38 +81,41 @@ Name: iAP26
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=com.justinpet26.iap26
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: justinpet26
+Author: JustinPet26
 Version: 0.0.1-5
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.justinpet26.iap26_0.0.1-5_iphoneos-arm.deb
 Size: 36324
+Installed-Size: 200
 MD5sum: b590b49f53f11b35317169deb72ad133
 SHA256: ff81e2b5cd89ceb63f586cf1bdf448b42e5ad291d985883997c742730dfd8b2c
 Sponsor: iOSGods.com
-Description: Free iAP Purchases
+Description: Free in app purchases
 Icon: file:///Library/PreferenceBundles/iAP26.bundle/iAP26@2x.png
 
 Package: ru.domo.cocoatop64
 Name: CocoaTop 64
+Conflicts: ru.domo.cocoatop
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=ru.domo.cocoatop64
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
-Author: D0m0
+Author: Domo
 Version: 2.0.2-1+debug
 Section: Utilities
 Depends: mobilesubstrate, firmware (>8.0)
 Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
 Size: 151514
+Installed-Size: 742
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Sponsor: 
-Description: Process Viewer for iOS GUI
+Description: Process Viewer for iOS GUI (64-bit)
 Icon: file:///Applications/CocoaTop.app/Icon@2x.png
 
 Name: JitterBug
 Package: io.iluwqaa.jitterbug
-Description: Play a song while editing your homescreen
+Description: Play a selected sound while it edit mode!
 Architecture: iphoneos-arm
 Section: Tweaks
 Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
@@ -128,6 +131,44 @@ Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 10.0)
 Installed-Size: 25292
 
+Name: JitterBug
+Package: io.iluwqaa.jitterbug
+Description: Play a song while editing your homescreen
+Architecture: iphoneos-arm
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
+Icon: file:///Library/PreferenceBundles/JitterBug.bundle/JitterBug@2x.png
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ikilledappl3.jitterbug/depiction
+Version: 1.0.1-1
+Filename: debs/tweaks/io.iluwqaa.jitterbug_1.0.1-1.deb
+Size: 39884048
+MD5sum: 1166d1e84e93991c0ae8bca7b7994088
+SHA1: d16f8fa7740425062a44527a97b02e39e8169fee
+SHA256: 55a108149d3f3a70f6b32c2a670f94c2bd620f7e75a4850d6e3f9b377e4a6c04
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 10.0)
+Installed-Size: 39604
+
+Name: JitterBug
+Package: io.iluwqaa.jitterbug
+Description: Play a song while editing your homescreen
+Architecture: iphoneos-arm
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.jitterbug
+Icon: file:///Library/PreferenceBundles/JitterBug.bundle/JitterBug@2x.png
+SileoDepiction: https://repo.packix.com/api/sileo/package/com.ikilledappl3.jitterbug/depiction
+Version: 1.0.2-1
+Filename: debs/tweaks/io.iluwqaa.jitterbug_1.0.2-1.deb
+Size: 39885294
+MD5sum: 22d36a31c596adc4d18ebaebe8b979de
+SHA1: d5b0b53d739fddadf13585b5d8ef94329c535dba
+SHA256: a342db4b56fcee210ebc449d6bdcbaabfa72e771f7fad522b65d8c0900ef73b1
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 10.0)
+Installed-Size: 39604
+
 Package: io.iluwqaa.dummy
 Name: Dummy Package
 Architecture: iphoneos-arm
@@ -135,14 +176,14 @@ Depiction: https://iluwqaa.github.io/depictions/?p=com.oldpackage
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: iluwQaa <iluwQaa@users.noreply.github.com>
 Version: 0.0.1-1
-Section: Games
+Section: System
 Depends: mobilesubstrate, firmware (>8.0)
 Filename: debs/dummy/io.iluwqaa.dummy.deb
 Size: 0
 MD5sum: 955a9a59163287f3dedee5580fd7b0a8
 Sponsor: 
 Description: Dummy Package
-Icon:  https://iluwqaa.github.io/CydiaIcon.png
+Icon: https://iluwqaa.github.io/CydiaIcon.png
 
 Package: io.iluwqaa.dummy2
 Name: Dummy Package 2
@@ -159,4 +200,4 @@ MD5sum: bc3f16e1e755c269ed8f606b126ec7d9
 SHA256: 2d9c9f75b0feded941707fd6606882abd0f4b83d4931c546362d437658ecaf1c
 Sponsor: 
 Description: Dummy Package 2
-Icon: https://iluwqaa.github.io/icons/cydia/Sections/iOSGods.png
+Icon: https://iluwqaa.github.io/CydiaIcon.png

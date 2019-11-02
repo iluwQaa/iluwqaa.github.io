@@ -1,10 +1,11 @@
 <package>
 	<id>io.iluwqaa.jitterbug</id>
 	<name>JitterBug</name>
-	<version>1.0-1</version>
+	<version>1.0.2-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
+			<maxiOS>12.4</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
@@ -21,6 +22,7 @@
 		This was requested on Reddit by /u/shnazzyc.<br/>
 		]]>
 		</description>
+		<description>You can put your own songs in /Library/Application Support/JitterBug/Songs/ and it can be any format but I recommend using .mp3 files only</description> 
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
