@@ -1,0 +1,55 @@
+<package>
+	<id>com.iluwqaa.mariokart</id>
+	<name>Mario Kart Cheats</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>iGMM for Mario Kart</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[ 
+		Hack Features:<br/>
+		- Coin Hack<br/>
+		<br/>
+		- MULTI ITEM<br/>
+		 -ALL TICKETS EARNED 9999<br/>
+		 -STARS AFTER RACE 9999<br/>
+		 -INSTANT MAX LEVEL OF ANY PURCHASED / WON CHARACTERS<br/>
+		 -INSTANT MAX LEVEL OF ANY PURCHASED / WON KARTS<br/>
+		 -INSTANT MAX LEVEL OF ANY PURCHASED / WON GLIDERS<br/>
+		 -COIN MULTIPLIER AFTER RACE <br/>
+		 -MAX RACE TICKETS <br/>
+		 -MAX MYSTERY BOX TICKETS<br/>
+		<br/>
+		- TICKET HACK ( SPEND TO GET )<br/>
+		- JAILBREAK bypass pre-installed<br/>
+		]]>
+		</description>
+		<description><![CDATA[ 
+		This hack is an In-Game Mod Menu (iGMM). <br/>
+		In order to activate the Mod Menu, tap on the iOSGods button found inside the app. <br/>﻿
+		]]>
+		﻿</description>
+		</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>iOSGods Topic</name>
+			<url>https://iosgods.com/topic/112043-mario-kart-tour-v111-10-free-hack/</url>
+			<iconclass>fa fa-copyright</iconclass>
+		</link>
+	</links>
+</package>

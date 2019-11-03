@@ -3,6 +3,12 @@
     "itemSize": "{296, 148}",
     "itemCornerRadius": 12,
     "banners": [
+	  {
+        "url": "https://iluwqaa.github.io/icons/packages/io.iluwqaa.mariokart/350x350bb.jpg",
+        "title": "Mario Kart Cheats",
+        "package": "io.iluwqaa.mariokart",
+        "hideShadow": false
+      },
       {
         "url": "https://iluwqaa.github.io/icons/SileoBanner.png",
         "title": "Repo iCons",
