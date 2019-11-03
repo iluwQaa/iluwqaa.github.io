@@ -86,11 +86,11 @@ Version: 1.1.1
 Section: Cheats
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/hacks/io.iluwqaa.mariokart_1.1.1-r_iphoneos-arm.deb
-Size: 1017508
 Installed-Size: 3552
-MD5sum: 252532ee0a0b36874c91e7ec55618c0f
-SHA1: 203e0b4445149b500632eca72ac1fad9b9d59dc7
-SHA256: 5c2544c10b0c38ba277232494be0fa7891e030e5a6d8896e516e22e9490b0063
+Size: 1017464
+MD5sum: 3945c7e0601dab17c1e4f92b6534d3a3
+SHA1: 4786f3e55fb1a97b876881593b28b9f7b002c6d8
+SHA256: 80852c7ec2ba3d8befa777bf0a425e60e99a89aa271c9a75f24dc0a05bfee82c
 Sponsor: iOSGods.com <iOSGods.com>
 Description: in-game menu hack for Mario Kart
 Icon: https://iluwqaa.github.io/icons/iosgods.png
