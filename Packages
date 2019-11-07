@@ -76,7 +76,7 @@ Sponsor: iOSGods.com <iOSGods.com>
 Description: in-game menu hack for Metal Slug Infinity
 Icon: https://iluwqaa.github.io/icons/iosgods.png
 
-Package: com.iluwqaa.mariokart
+Package: io.iluwqaa.mariokart
 Name: Mario Kart Cheats [iGMM]
 Architecture: iphoneos-arm
 Depiction: https://iluwqaa.github.io/depictions/?p=io.iluwqaa.mariokart
@@ -219,3 +219,24 @@ SHA256: 2d9c9f75b0feded941707fd6606882abd0f4b83d4931c546362d437658ecaf1c
 Sponsor: 
 Description: Dummy Package 2
 Icon: https://iluwqaa.github.io/CydiaIcon.png
+
+Package: com.aidoo.memsearch
+Name: GameGem
+Section: Utilities
+Installed-Size: 10613
+Size: 4017192
+MD5sum: c08cc8653899c5657520e50c244779d2
+SHA1: b7843f569139e12ee911adb677fb9ee4dee7853c
+SHA256: a09ad6c5a6f5fc9e4d9f88378b156c4b4a85f9f50b6af86f5ed72630426bd3f9
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Architecture: iphoneos-arm
+Version: 1.5
+Depends: firmware (>= 8.0)
+Filename: debs/utilities/com.aidoo.memsearch_1.5_iphoneos-arm.deb
+Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Depiction: https://iluwqaa.github.io/depictions/?p=com.aidoo.memsearch
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+dev: aidoo
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+

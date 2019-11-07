@@ -1,0 +1,13 @@
+<changelog>
+	<changes>
+		<version>1.5</version>
+		<change>Fix "0 match" error.</change>
+	</changes>
+	<changes>
+		<version>1.4</version>
+		<change>Add error log report</change>
+		<change>Add speed optimizer (no effect on iOS 11 because of substrate)</change>
+		<change>Remmove memory filtering condition. (This leads to a litter slower searches)</change>
+		<change>If the scan service crash, send e-mail pealse.</change>
+	</changes>
+</changelog>

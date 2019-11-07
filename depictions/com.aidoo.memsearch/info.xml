@@ -1,0 +1,41 @@
+<package>
+	<id>com.aidoo.memsearch</id>
+	<name>GameGem</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cheat engine for ios. Support iPhone and iPad with iOS 8 ~ 11.x . Support mode: accurate , fuzzy, accurate x fuzzy. Support data type: Word, DWord, Float. Support data locking and batch modify. </shortDescription>
+	<descriptionlist>
+		<description>Speed Optimize now include. Support cocos2dx game engine or some others... Not support Unity game engine</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>gamegem1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>gamegem2.jpg</image>
+		</screenshot>	
+			<screenshot>
+			<description></description>
+			<image>gamegem3.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix "0 match" error.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>aidootk.com</name>
+			<url>http://www.aidootk.com/</url>
+			<iconclass>fa fa-copyright</iconclass>
+		</link>
+	</links>
+</package>
