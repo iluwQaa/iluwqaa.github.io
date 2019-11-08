@@ -1,0 +1,21 @@
+<package>
+	<id>io.iluwqaa.dummy</id>
+	<name>Dummy Package</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOSiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>Do not try to install!</shortDescription>
+	<descriptionlist>
+		<description>This is an test package. Requires iOS 8 and higher..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
