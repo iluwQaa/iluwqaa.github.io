@@ -203,7 +203,6 @@ SHA1: e0c83ea9797cf0a6d504a7bcaa630f0c91ee6cae
 SHA256: 913d1be958d235ae61be3e98648573b2a9a738e5db13e1e2f4d7c78011b5da60
 Sponsor: iluwQaa <https://iluwqaa.github.io/>
 Description: Dummy Package
-Icon: https://iluwqaa.github.io/CydiaIcon.png
 
 Package: io.iluwqaa.dummy2
 Name: Dummy Package 2
@@ -227,21 +226,21 @@ Name: Repo iCons
 Architecture: iphoneos-arm
 Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: iluwQaa <iluwQaa@users.noreply.github.com>
-Version: 1.0-1
+Version: 1.1-1
 Section: Other
 Priority: required
 Essential: yes
-Filename: debs/other/io.iluwqaa.repoicons_1.0-1_iphoneos-arm.deb
-Size: 10596
-MD5sum: 02bd771c1683b72d9e0d6f710f85c99e
-SHA1: 54e2eb014ddb45c69a50a0b39ba4e939c7ad9071
-SHA256: 0205ccb8fe944043e8a4e738d1c5df55303a993174286fb6baab900394c104fa
+Filename: debs/other/io.iluwqaa.repoicons_1.1-1_iphoneos-arm.deb
+Size: 20632
+MD5sum: 7f360d020a034714851f115abeb3d587
+SHA1: 8893489e7cdfa33c34f89a4caa4890cc35242f60
+SHA256: e29ff8b5337ca7f830151daab4e5a51682643c78011a2d26829ec50ac254e5d7
 Sponsor: iluwQaa <iluwQaa@users.noreply.github.com>
 Description: This fixes the gray question mark icon.
 Icon: https://iluwqaa.github.io/CydiaIcon.png
 
 Package: com.aidoo.memsearch
-Name: GameGem
+Name: GameGem (MemSearch)
 Section: Utilities
 Installed-Size: 10613
 Size: 4017192
@@ -260,3 +259,24 @@ dev: aidoo
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
 
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.4.5
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Filename: debs/system/com.matchstic.reprovision_0.4.5-2_iphoneos-arm.deb
+Size: 15194356
+MD5sum: 1c20bc3ef11dd992a8551cde1657f855
+SHA1: 1a4acbb02e203d79a7069a40392dac12f9f9a30c
+SHA256: ed2f29b27d5c5b1997542a773f2287602507a3ffd9d5bcb55492a99975b57dc1
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: https://iluwqaa.github.io/depictions/?p=com.matchstic.reprovision
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png

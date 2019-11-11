@@ -1,0 +1,69 @@
+<package>
+	<id>com.matchstic.reprovision</id>
+	<name>ReProvision</name>
+	<version>0.4.5-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<shortDescription>ReProvision provides automatic re-provisioning of iOS applications to avoid the 7-day expiration associated with free certificates.</shortDescription>
+	<descriptionlist>
+		<description>ReProvision never requires a paid developer account to install applications.</description>
+		<description><![CDATA[
+		<p>It provides a number of useful features, such as:</p><br/> 
+			<ul>
+                        	<li>
+                                <p><b>Automatic re-signing</b> of locally provisioned applications.</p>
+                            </li>
+
+                        	<li>
+                                <p>Saving of your Apple ID login details (Note: sensitive information is stored in the Keychain).</p>
+                            </li>
+
+                        	<li>
+                                <p>Installation of <code>.ipa</code> files through Safari and other applications.</p>
+                            </li>
+
+                        	<li>
+                                <p>Support for signing Apple Watch applications.</p>
+                            </li>
+
+                        	<li>
+                                <p>3D Touch menu to manually re-sign from the Homescreen.</p>
+                            </li>
+	                    </ul>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>screenshot3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>screenshot4.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
