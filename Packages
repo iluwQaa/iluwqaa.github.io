@@ -280,3 +280,20 @@ SHA256: ed2f29b27d5c5b1997542a773f2287602507a3ffd9d5bcb55492a99975b57dc1
 Homepage: https://github.com/Matchstic/Extender-Installer
 Depiction: https://iluwqaa.github.io/depictions/?p=com.matchstic.reprovision
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
+Package: moe.misty.reprofix
+Name: ReProFix
+Depends: mobilesubstrate, com.matchstic.reprovision (>= 0.5~experimental6) | com.matchstic.reprovision (>= 0.6)
+Architecture: iphoneos-arm
+Description: ReProvision Fix!
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: misty
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 116
+Filename: debs/tweaks/moe.misty.reprofix_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3268
+MD5sum: 1df5d12a056ce5670c499c50b43cebc9
+SHA1: 6ebeb3a02f6b4db89384d9a7528c43d601d964e3
+SHA256: dcbc5f147a504a4eb7632d5250e5dfb8f2e6f40fcd38878c32fecafbe301d048
+Icon: https://iluwqaa.github.io/icons/cydia/Sections/Tweak.png
