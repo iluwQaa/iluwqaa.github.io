@@ -1,0 +1,48 @@
+<package>
+	<id>me.sukarodo.isupervisor</id>
+	<name>iSupervisor</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This tweak enables supervised mode without the need of wiping the device (via Apple Configurator) or using Apple Device Enrolment Program(DEP).</shortDescription>
+	<descriptionlist>
+	<description>System-wide AdBlock <link>
+			<name>HERE</name>
+			<url>https://iluwqaa.github.io/easylist.mobileconfig</url>
+		</link>
+		</description>
+		<description>This tweak enables supervised mode without the need of wiping the device (via Apple Configurator) or using Apple Device Enrolment Program(DEP).</description>
+		<description><![CDATA[
+		With supervised mode, you can enable many hidden features:<br/> 
+		<ul>
+			<li>Enable True Always On VPN</li>
+			<li>Global HTTP Proxy</li>
+			<li>Single App Mode</p></li>
+			<li>Apply restrictions to the device (parental controls, block gamecenter, imessages, airdrop, etc)</li>
+			<li>Prevent Apple Music</li>
+			<li>And many more</li>
+		</ul>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>		
+	</screenshots>
+	<changelog>
+		<change>No changelog available</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
