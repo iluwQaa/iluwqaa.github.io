@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>This tweak enables supervised mode without the need of wiping the device (via Apple Configurator) or using Apple Device Enrolment Program(DEP).</shortDescription>
 	<descriptionlist>
-	<description><![CDATA[System-wide AdBlock <a href="https://iluwqaa.github.io/easylist.mobileconfig" target="_blank">HERE</a>]]>
+	<description>MobileConfig in LINKS section bellow
 	</description>
 		<description><![CDATA[
 		With supervised mode, you can enable many hidden features:<br/> 
@@ -36,9 +36,9 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>System-wide AdBlock MobileConfig</name>
+			<url>https://iluwqaa.github.io/easylist.mobileconfig</url>
+			<iconclass>fa fa-spinner fa-spin</iconclass>
 		</link>
 	</links>
 </package>
