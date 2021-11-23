@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>This tweak enables supervised mode without the need of wiping the device (via Apple Configurator) or using Apple Device Enrolment Program(DEP).</shortDescription>
 	<descriptionlist>
-	<description><![CDATA[System-wide AdBlock <a href="https://iluwqaa.github.io/easylist.mobileconfig" target="_blank"><i class="fa fa-link" aria-hidden="true"></i>HERE</a> OR in LINKS section bellow]]></description>
+	<description><![CDATA[System-wide AdBlock <a href="https://iluwqaa.github.io/easylist.mobileconfig" target="_blank"><i class="fa fa-link" aria-hidden="true">HERE</i></a> OR in LINKS section bellow]]></description>
 		<description><![CDATA[
 		With supervised mode, you can enable many hidden features:<br/> 
 		<ul>
