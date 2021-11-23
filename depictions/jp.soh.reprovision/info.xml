@@ -1,0 +1,46 @@
+<package>
+	<id>jp.soh.reprovision</id>
+	<name>ReProvision Reborn</name>
+	<version>0.8.3~release</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 9.0)</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+			<h3>Features</h3>
+			<p>Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts. These credentials are stored in the user's Keychain for subsequent re-use, and are only sent to Apple's iTunes Connect API for authentication.</p>
+			<ul><li>Automatic re-signing of locally provisioned applications.</li><li>Basic settings to configure alerts shown by the automatic re-signing.</li><li>Ability to install any&nbsp;<code>.ipa</code>&nbsp;file downloaded through Safari from the device.</li><li>Support for re-signing Apple Watch applications.</li><li>3D Touch menu for starting a new re-signing routine directly from the Homescreen.</li><li>Support for URL Scheme (reprovision://install?url=&lt;ipa url&gt;</li></ul>
+		]]>
+		</description>
+		<description><![CDATA[
+			<h3>Why 'Reborn'?</h3>
+			<p>This project had been EOL and I have resurrected it.<br>One thing to note is that I do not intend to update for non-iOS. Perhaps an update for iOS make it incompatible with other operating systems.<br><strong>Please don't bother the original developer about issues on this version.</strong></p>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+			<screenshot>
+			<description></description>
+			<image>1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>2.png</image>
+		</screenshot>	
+		<screenshot>
+			<description></description>
+			<image>3.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Fix many bugs that caused crashes</change>
+		<change>Fix a bug that prevented the 'Register Apple Watch' button from working.</change>
+	</changelog>
+	<links></links>
+</package>

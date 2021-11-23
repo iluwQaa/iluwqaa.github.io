@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>0.8.3~release</version>
+		<change>Fix many bugs that caused crashes</change>
+		<change>Fix a bug that prevented the 'Register Apple Watch' button from working.</change>
+	</changes>
+</changelog>
