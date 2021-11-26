@@ -351,10 +351,31 @@ Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
 Author: sukarodo
 Version: 1.2
 Section: System
-Depends: firmware (>11.0)
+Depends: firmware (>= 11.0), firmware (<= 12.5)
 Filename: debs/system/me.sukarodo.isupervisor_1.2_iphoneos-arm.deb
 Size: 1408
 MD5sum: c3092e2ab1e55695b5b77c9bcc3e1432
 Icon: https://iluwqaa.github.io/icons/cydia/Sections/System.png
 Sponsor: 
 Description: This tweak enables supervised mode without the need of wiping the device (via Apple Configurator) or using Apple Device Enrolment Program(DEP).
+
+Name: ReProvision Reborn
+Package: jp.soh.reprovision
+Description: Re-sign applications on your device
+Architecture: iphoneos-arm
+Section: System
+Depiction: https://iluwqaa.github.io/depictions/?p=jp.soh.reprovision
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Version: 0.8.3~release
+Tag: purpose::extension, compatible_min::ios9
+Filename: debs/system/jp.soh.reprovision_0.8.3~release_iphoneos-arm.deb
+Size: 15477492
+MD5sum: 4ecea265b0b74c772bc94ab49a36e923
+SHA1: 21547146376e041b6ead427f1b53456f2bec4eab
+SHA256: eb1ec319ce0fab9584917eb3e8505121496c62b1f4826f6e7db60c6314661a21
+Author: Soh Satoh, Matt Clarke
+Maintainer: Soh Satoh
+Depends: firmware (>= 9.0)
+Priority: optional
+Conflicts: com.matchstic.reprovision
+dev: Matt Clarke
