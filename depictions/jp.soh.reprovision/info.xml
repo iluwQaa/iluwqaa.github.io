@@ -13,6 +13,8 @@
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
+<iframe src="https://tweakreviews.pixelomer.com/web/package/jp.soh.reprovision?hideHeader=1">
+</iframe>
 			<h3>Features</h3>
 			<p>Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts. These credentials are stored in the user's Keychain for subsequent re-use, and are only sent to Apple's iTunes Connect API for authentication.</p>
 			<ul><li>Automatic re-signing of locally provisioned applications.</li><li>Basic settings to configure alerts shown by the automatic re-signing.</li><li>Ability to install any&nbsp;<code>.ipa</code>&nbsp;file downloaded through Safari from the device.</li><li>Support for re-signing Apple Watch applications.</li><li>3D Touch menu for starting a new re-signing routine directly from the Homescreen.</li><li>Support for URL Scheme (reprovision://install?url=&lt;ipa url&gt;</li></ul>

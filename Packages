@@ -135,6 +135,26 @@ Sponsor:
 Description: Process Viewer for iOS GUI (64-bit)
 Icon: file:///Applications/CocoaTop.app/Icon@2x.png
 
+Package: ru.domo.cocoatop64
+Name: CocoaTop 64
+Conflicts: ru.domo.cocoatop
+Architecture: iphoneos-arm
+Depiction: https://iluwqaa.github.io/depictions/?p=ru.domo.cocoatop64
+Maintainer: iluwQaa <iluwQaa@users.noreply.github.com>
+Author: Domo
+Version: 2.2.3
+Section: System
+Depends: mobilesubstrate, firmware (>10.0)
+Filename: debs/system/ru.domo.cocoatop64_2.2.3_iphoneos-arm.deb
+Size: 151514
+Installed-Size: 742
+Size: 742
+MD5sum: 2527fa61468eb5986dc2b007784d9a1a
+SHA256: 6952c1af0b9d579a0e9eaeb3b71b26865b1f0c723c0a709f24a766f200019dec
+Sponsor: 
+Description: Process Viewer for iOS GUI (64-bit)
+Icon: file:///Applications/CocoaTop.app/Icon@2x.png
+
 Name: JitterBug
 Package: io.iluwqaa.jitterbug
 Description: Play a selected sound while it edit mode!

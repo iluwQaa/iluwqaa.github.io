@@ -1,11 +1,11 @@
 <package>
 	<id>ru.domo.cocoatop64</id>
 	<name>CocoaTop 64</name>
-	<version>2.0.2-1+debug</version>
+	<version>2.2.3</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>12.4</maxiOS>
+			<miniOS>10.0</miniOS>
+			<maxiOS>14.8</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,12 +13,17 @@
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
+	<shortDescription>Process Viewer for iOS GUI</shortDescription>
 	<descriptionlist>
-		<description>Process Viewer for iOS GUI</description>
+		<description>GUI Process Viewer for iOS 10 - 13</description>
+		<description><![CDATA[
+		<iframe src="https://tweakreviews.pixelomer.com/web/package/ru.domo.cocoatop64?hideHeader=1"></iframe>
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>iOS13 support</change>
 	</changelog>
 	<links></links>
 </package>

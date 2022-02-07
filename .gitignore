@@ -5,3 +5,4 @@ debs/processed/*
 INFO
 dpkg-scanpackages.py
 dpkg-scanpackages-saurik.py
+icons/icon*

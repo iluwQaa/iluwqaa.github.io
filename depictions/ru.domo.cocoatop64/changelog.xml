@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.2.3</version>
+		<change>iOS13 support</change>
+	</changes>
+	<changes>
 		<version>2.0.2-1+debug</version>
 		<change>Initial release</change>
 	</changes>
