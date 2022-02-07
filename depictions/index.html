@@ -150,7 +150,10 @@
 				$("#packageInformation").hide();
             }
         }); //ajax
-
+		$("#tweakreviews").append(
+            $("<iframe class='review'>")
+            .attr("src","https://tweakreviews.pixelomer.com/web/package/"+bundleid+"?hideHeader=1&maxReviews=0")
+        );
     }); // ready
   </script>
 </head>
@@ -168,6 +171,12 @@
 
 	<div class="container">
 	  <div id="compatibilityCheck" class="alert"></div>
+	</div>
+	
+	<div class="container">
+		<h5>TWEAK REVIEWS</h5>
+		<div id="tweakreviews">
+		</div>
 	</div>
 
 	<div class="container">
