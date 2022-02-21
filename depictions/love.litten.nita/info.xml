@@ -1,0 +1,30 @@
+<package>
+	<id>love.litten.nita</id>
+	<name>Nita ☀️</name>
+	<version>1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+			Replace your carrier with an emoji which represents the current weather condition.
+			]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+			<screenshot>
+			<description></description>
+			<image>Preview.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>iPhone, iPad and iPod running iOS/iPadOS 13 or later</change>
+	</changelog>
+	<links></links>
+</package>

@@ -399,3 +399,22 @@ Depends: firmware (>= 9.0)
 Priority: optional
 Conflicts: com.matchstic.reprovision
 dev: Matt Clarke
+
+Name: Nita ☀️
+Package: love.litten.nita
+Architecture: iphoneos-arm
+Description: Ensoleillé
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=love.litten.nita
+Icon: file:///Library/PreferenceBundles/NitaPreferences.bundle/Icon@2x.png
+Version: 1.6
+Tag: compatible_min::ios13
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: debs/tweaks/love.litten.nita_1.6_iphoneos-arm.deb
+Installed-Size: 1312
+Size: 895126
+MD5sum: e5ef19e7b8e36305751a080d32c3eb06
+SHA1: 4aab3d09d21f29972c69c9f87ab5f796319431ff
+SHA256: 30019d01c801fdbd0233a9ac953678453e3567683487298657385883220bb04a
