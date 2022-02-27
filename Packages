@@ -418,3 +418,37 @@ Size: 895126
 MD5sum: e5ef19e7b8e36305751a080d32c3eb06
 SHA1: 4aab3d09d21f29972c69c9f87ab5f796319431ff
 SHA256: 30019d01c801fdbd0233a9ac953678453e3567683487298657385883220bb04a
+
+Package: love.litten.batterybuddy
+Name: Battery Buddy ⚡️
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Battery indicator, but cute
+Maintainer: Litten
+Author: Litten & neilsardesai
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=love.litten.batterybuddy
+Version: 1.0.2
+Filename: debs/tweaks/love.litten.batterybuddy_1.0.2_iphoneos-arm-objective-c.deb
+Installed-Size: 192
+Size: 11154
+MD5sum: 6bf6c895a54c885cf2a036ecbf41e0d5
+SHA1: 22901c5083fe21bbc282744d8d2ee1f4ff6ce4f1
+SHA256: bcc489157e29d354e17b51fc3f6ed28a40a55ffe10a438a61b0474e951f605dd
+
+Package: love.litten.batterybuddy
+Name: Battery Buddy ⚡️
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13)
+Architecture: iphoneos-arm
+Description: Battery indicator, but cute
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://iluwqaa.github.io/depictions/?p=love.litten.batterybuddy
+Version: 1.0.2
+Filename: debs/tweaks/love.litten.batterybuddy_1.0.2_iphoneos-arm-swift.deb
+Installed-Size: 252
+Size: 30496
+MD5sum: 49ebaef35446029ef3f7ab2b3678b549
+SHA1: 8d6fe2ba11b7ed16d8813c7599a2bbb18338bee7
+SHA256: 63080aaa9c0da1aba48a968ee092774a9a54e10aefdd478eb9c51cfc7452dbc2
