@@ -6,3 +6,4 @@ Codename: iosgitrepo
 Architectures: iphoneos-arm
 Components: main
 Description: Some tool & tweaks.
+Icon: file://CydiaIcon.png

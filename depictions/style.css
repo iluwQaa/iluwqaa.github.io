@@ -32,3 +32,10 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 	width: 100%;
     border: none;
 }
+
+.jumbotron {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
